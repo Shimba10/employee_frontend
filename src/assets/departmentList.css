@@ -1,0 +1,21 @@
+.departmentList h2 {
+    color: #333;
+  }
+  
+  .addButton {
+    display: inline-block;
+    background-color: #0066cc;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .departmentItem {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
